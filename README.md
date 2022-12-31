@@ -1,9 +1,11 @@
-### About Me
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Hi There
+#About Me
 
+[Linkedin](www.linkedin.com/in/franciscoribeiro2003)
+[Twitter](https://twitter.com/xiclista2003)
 
-<!--
-**franciscoribeiro2003/franciscoribeiro2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Stats
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franciscoribeiro2003)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoribeiro2003)](https://github.com/anuraghazra/github-readme-stats)
