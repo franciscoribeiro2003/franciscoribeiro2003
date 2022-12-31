@@ -1,4 +1,4 @@
-### Hi There
+### Hi There 👋
 # About Me
 I attend the second year of Computer Science degree at the University of Porto
 More info:
