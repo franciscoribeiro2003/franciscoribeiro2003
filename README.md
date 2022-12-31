@@ -1,7 +1,8 @@
 ### Hi There 👋
 # About Me
 I attend the second year of Computer Science degree at the University of Porto
-More info:
+
+#### More info:
 <div id="badges">
   <a href="www.linkedin.com/in/franciscoribeiro2003">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
