@@ -17,7 +17,7 @@ I attend the second year of Computer Science degree at the University of Porto
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franciscoribeiro2003&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoribeiro2003)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoribeiro2003&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
