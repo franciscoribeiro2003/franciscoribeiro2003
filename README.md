@@ -1,7 +1,10 @@
 ### Hi There 👋
 # About Me
 I attend the second year of Computer Science degree at the University of Porto.
-You can see my page in [here](https://franciscoribeiro2003.github.io/), where you can see my experience and also download my cv.
+
+You can see my page in [here](https://franciscoribeiro2003.github.io/).
+
+There you can see my experience and also download my cv.
 
 #### More info:
 <div id="badges">
